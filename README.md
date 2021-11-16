@@ -19,7 +19,7 @@ npm run bulid
 * 歌曲切换/暂停
 * 歌曲搜索
 * 历史记录
-...其他功能待开发
+* ...其他功能待开发
 
 ## 效果图展示
 ![image](https://user-images.githubusercontent.com/52476806/141922591-e07b7ab2-af7e-40ae-9868-5c4fc1bc966c.png)
